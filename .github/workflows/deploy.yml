@@ -9,10 +9,8 @@ jobs:
       - name: Git Checkout
         uses: actions/checkout@v2
      
-      - name: Set up Python
-        uses: actions/setup-python@v2
-        with:
-          python-version: 2.x
+      - name: Set up Node
+        uses: actions/setup-node@v3
 
       - name: Yarn Cache
         uses: c-hive/gha-yarn-cache@v1
