@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "https://johnsonsirv.github.io/ops-flow-io-frontend/static/css/main.0b3ff91f.chunk.css",
-    "main.js": "https://johnsonsirv.github.io/ops-flow-io-frontend/static/js/main.d7e8590c.chunk.js",
-    "main.js.map": "https://johnsonsirv.github.io/ops-flow-io-frontend/static/js/main.d7e8590c.chunk.js.map",
-    "runtime~main.js": "https://johnsonsirv.github.io/ops-flow-io-frontend/static/js/runtime~main.95ef9307.js",
-    "runtime~main.js.map": "https://johnsonsirv.github.io/ops-flow-io-frontend/static/js/runtime~main.95ef9307.js.map",
-    "static/js/2.09f3b3c5.chunk.js": "https://johnsonsirv.github.io/ops-flow-io-frontend/static/js/2.09f3b3c5.chunk.js",
-    "static/js/2.09f3b3c5.chunk.js.map": "https://johnsonsirv.github.io/ops-flow-io-frontend/static/js/2.09f3b3c5.chunk.js.map",
-    "index.html": "https://johnsonsirv.github.io/ops-flow-io-frontend/index.html",
-    "precache-manifest.860b49949ce9f8614018fb0bd202c5fc.js": "https://johnsonsirv.github.io/ops-flow-io-frontend/precache-manifest.860b49949ce9f8614018fb0bd202c5fc.js",
-    "service-worker.js": "https://johnsonsirv.github.io/ops-flow-io-frontend/service-worker.js",
-    "static/css/main.0b3ff91f.chunk.css.map": "https://johnsonsirv.github.io/ops-flow-io-frontend/static/css/main.0b3ff91f.chunk.css.map"
+    "main.css": "https://johnsonsirv.github.io/opchestrate-io-frontend/static/css/main.420090ed.chunk.css",
+    "main.js": "https://johnsonsirv.github.io/opchestrate-io-frontend/static/js/main.acd4c24a.chunk.js",
+    "main.js.map": "https://johnsonsirv.github.io/opchestrate-io-frontend/static/js/main.acd4c24a.chunk.js.map",
+    "runtime~main.js": "https://johnsonsirv.github.io/opchestrate-io-frontend/static/js/runtime~main.0f776be7.js",
+    "runtime~main.js.map": "https://johnsonsirv.github.io/opchestrate-io-frontend/static/js/runtime~main.0f776be7.js.map",
+    "static/js/2.ff3b5c4f.chunk.js": "https://johnsonsirv.github.io/opchestrate-io-frontend/static/js/2.ff3b5c4f.chunk.js",
+    "static/js/2.ff3b5c4f.chunk.js.map": "https://johnsonsirv.github.io/opchestrate-io-frontend/static/js/2.ff3b5c4f.chunk.js.map",
+    "index.html": "https://johnsonsirv.github.io/opchestrate-io-frontend/index.html",
+    "precache-manifest.0baa457a1d763954ca7cab90d5fcdcef.js": "https://johnsonsirv.github.io/opchestrate-io-frontend/precache-manifest.0baa457a1d763954ca7cab90d5fcdcef.js",
+    "service-worker.js": "https://johnsonsirv.github.io/opchestrate-io-frontend/service-worker.js",
+    "static/css/main.420090ed.chunk.css.map": "https://johnsonsirv.github.io/opchestrate-io-frontend/static/css/main.420090ed.chunk.css.map"
   }
 }

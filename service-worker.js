@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "https://johnsonsirv.github.io/ops-flow-io-frontend/precache-manifest.860b49949ce9f8614018fb0bd202c5fc.js"
+  "https://johnsonsirv.github.io/opchestrate-io-frontend/precache-manifest.0baa457a1d763954ca7cab90d5fcdcef.js"
 );
 
 self.addEventListener('message', (event) => {
@@ -33,7 +33,7 @@ workbox.core.clientsClaim();
 self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("https://johnsonsirv.github.io/ops-flow-io-frontend/index.html"), {
+workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("https://johnsonsirv.github.io/opchestrate-io-frontend/index.html"), {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
